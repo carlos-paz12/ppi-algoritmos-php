@@ -1,6 +1,6 @@
-# condicionais-lacos-php
+# Condicionais e Laços em PHP
 
 <br>
 
-## Description
+## Descrição
 Atividade prática da disciplina de Programação para Internet sobre condicionais e laços em PHP.
